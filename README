@@ -1,17 +1,17 @@
 
 HOTEL REVIEW
 Built With HTML, CSS, JS and db.json, OCT 18 2024
-By Dennis Kiboi
+By Emmanuel okoth.
 Description
-This is reveiw website, built using HTML, CSS and JavaScript, where users can submit their reviews about various hotels
+This is reveiw website, built using HTML, CSS and JavaScript, where users can submit their reviews about the meals in various hotels
 
 Hotel Review:
-[PHASE-PROJECT-0000](./images/site.png)
+![image](./images/site.png)
 
-How to Use
-Requirements
-A computer, tablet or phone
-Access to the internet
+
+Requirements:
+1.A computer, tablet or phone
+2.Access to the internet
 
 
 Using the App
@@ -20,10 +20,7 @@ Submit comments
 Edit comments
 Add images
 Add texts
-Rate the information yo gave.
-
-To run this app locally, you need a PC with:
-Access to the internet
+Rate the information you Submitted.
 
 
 Technologies Used:
