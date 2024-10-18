@@ -1,0 +1,65 @@
+
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8" />
+  <title>Hotel Reveiwer</title>
+  <link rel="stylesheet" type="text/css" href="style.css" />
+  <link rel="icon" href="./images/hotel.avif" type="image/x-icon">
+
+  <script defer type="module" src="./index.js"></script>
+  
+</head>
+
+<body background="./images/back.jpeg">
+  <header>
+    <h3>Hotel Reveiwer</h3>
+
+  </header>
+  <p>Welcome to our site where you can freely post your ratings of various meals about various hotels.</p>
+    <p>Feel free to submit your reviews down here:</p>
+
+  <form id="new-comments">
+    <h4>Add New Comments:</h4>
+    <label for="new-name">Name: </label>
+    <input type="text" name="name" id="new-name" />
+    <label for="new-restaurant">Restaurant: </label>
+    <input type="text" name="restaurant" id="new-restaurant" />
+    <label for="new-image">Image: </label>
+    <input type="text" name="image" id="new-image" />
+    <label for="new-rating">Rating: </label>
+    <input type="number" name="rating" id="new-rating" />
+    <label for="new-comment">Comment: </label>
+    <textarea name="new-comment" name="new-comment" id="new-comment"></textarea>
+    <input type="submit" id='submit-button' value="Submit" />
+  </form>
+
+  
+  <div id="Food-menu">
+  
+  </div>
+
+
+  <div id="Food-detail">
+    <img class="detail-image" src="./images/goes.jpg" alt="Insert Name Here" />
+    <h2 class="name">Insert Name Here</h2>
+    <h3 class="restaurant">Insert Restaurant Here</h3>
+    
+  </div>
+
+  <h3>Rating:</h3>
+  <p>
+    <span id='rating-display'>Insert rating here</span> / 100
+  </p>
+  <h3>Comment:</h3>
+  <p id='comment-display'>
+    Insert comment here
+  </p>
+
+
+
+
+</body>
+
+</html>

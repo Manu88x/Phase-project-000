@@ -1,0 +1,52 @@
+{
+  "Food": [
+    {
+      "id": 1,
+      "name": "Chips-kuku",
+      "restaurant": "Fried-room",
+      "image": "./images/chips.jpeg",
+      "rating": 79,
+      "comment": "This is nice!"
+    },
+    {
+      "id": "2",
+      "name": "Ugali-special",
+      "restaurant": "Ugali-Huts",
+      "image": "./images/Ugali-special.jpeg",
+      "rating": 99,
+      "comment": "This is good stuff"
+    },
+    {
+      "id": "3",
+      "name": "Coffee x cake",
+      "restaurant": "Beverage-delux",
+      "image": "./images/coffee.jpeg",
+      "rating": "88",
+      "comment": "Nice stuff here."
+    },
+    {
+      "id": "4",
+      "name": "Chapati-ndegu",
+      "restaurant": "Dinners-inn",
+      "image": "./images/Chapati-Ndegu.jpg",
+      "rating": 89,
+      "comment": "Good to the last bite."
+    },
+    {
+      "id": "5",
+      "name": "Nyama-choma",
+      "restaurant": "Nyama-choma-inn",
+      "image": "./images/choma.jpeg",
+      "rating": 99,
+      "comment": "Perfect for a cold night."
+    },
+    {
+      "id": null,
+      "name": "Rice and beans",
+      "restaurant": "Okembo-inns",
+      "image": "./images/beans.jpeg",
+      "rating": 90,
+      "comment": "wow"
+    }
+  ]
+}
